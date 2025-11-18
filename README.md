@@ -24,3 +24,5 @@ and problem-solving skills in a real project.
 - Object-oriented architecture
 
 This repository includes only selected logic pieces, extracted and cleaned for clarity.
+
+![Idle](Screenshots/1_circle_idle.jpg)
